@@ -1,0 +1,7 @@
+#!/bin/bash
+
+./client 22 + 33 &
+./client 33 - 20 &
+./client 2 \* 3 & 
+./client 32 / 4 & 
+./client 30 % 4 

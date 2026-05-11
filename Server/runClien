@@ -1,0 +1,39 @@
+#! /bin/bash
+
+./client 44 - 33 &
+./client 4 \* 3 &
+./client 32 % 5 &
+./client 44 - 33 &
+./client 4 \* 3 &
+./client 32 % 5 &
+./client 44 - 33 &
+./client 4 \* 3 &
+./client 32 % 5 &
+./client 44 - 33 &
+./client 4 \* 3 &
+./client 32 % 5 &
+./client 44 - 33 &
+./client 4 \* 3 &
+./client 32 % 5 &
+./client 44 - 33 &
+./client 4 \* 3 &
+./client 32 % 5 &
+./client 44 - 33 &
+./client 4 \* 3 &
+./client 32 % 5 &
+./client 44 - 33 &
+./client 4 \* 3 &
+./client 32 % 5 &
+./client 44 - 33 &
+./client 4 \* 3 &
+./client 32 % 5 &
+./client 44 - 33 &
+./client 4 \* 3 &
+./client 32 % 5 &
+./client 44 - 33 &
+./client 4 \* 3 &
+./client 32 % 5 &
+./client 44 - 33 &
+./client 4 \* 3 &
+./client 32 % 5 &
+./client 32 / 4 

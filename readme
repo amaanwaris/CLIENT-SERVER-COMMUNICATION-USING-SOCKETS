@@ -1,0 +1,14 @@
+// Server 
+
+recvExact 		//done
+sendExact 		//done
+vendorAdd		//done
+vendorSub		//done
+vendorMul		//done
+vendorDiv		//done
+vendorMod		//done
+clientApp		//done
+clientHandler		//pending
+Makefile 		//done
+
+
